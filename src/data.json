@@ -1,0 +1,201 @@
+{
+    "products":[
+        {
+            "_id":"item1",
+        "title":"Oreo",
+        "image":"/images/img1.jpg",
+        "Description":"Biscuit",
+        "price":20,
+        "Category":"Biscuit"
+        
+      
+    },
+    {
+        
+                "_id":"item2",
+            "title":"Kisses",
+            "image":"/images/img2.jpg",
+            "Description":"Kisses",
+            "price":100,
+            "Category":"Chocolate"            
+        },
+        {
+        
+            "_id":"item3",
+        "title":"Kitkat",
+        "image":"/images/img5.jpg",
+        "Description":"Kitkat",
+        "price":15,
+        "Category":"Chocolate"      
+      
+    },
+        {
+        
+            "_id":"item4",
+        "title":"Milk",
+        "image":"/images/img3.jpg",
+        "Description":"Milk",
+        "price":22,
+        "Category":"Milk"       
+    },
+    {
+        
+        "_id":"item5",
+    "title":"Eggs",
+    "image":"/images/img4.jpg",
+    "Description":"Eggs",
+    "price":154,
+    "Category":"Eggs"
+   
+},
+{
+    "_id":"item6",
+    "title":"Eggs",
+    "image":"/images/img7.jpg",
+    "Description":"Eggs",
+    "price":150,
+    "Category":"Eggs"
+},
+{
+        
+    "_id":"item7",
+"title":"Bourvita",
+"image":"/images/img6.jpg",
+"Description":"Bourvita",
+"price":150,
+"Category":"Beverage"
+},
+{
+        
+    "_id":"item8",
+"title":"Apple",
+"image":"/images/apple.png",
+"Description":"Apple/kg",
+"price":120,
+"Category":"fruits"
+},
+{
+        
+    "_id":"item9",
+"title":"Banana",
+"image":"/images/bana.png",
+"Description":"Banana/kg",
+"price":35,
+"Category":"fruits"
+},
+{
+        
+    "_id":"item10",
+"title":"Mangoes",
+"image":"/images/mango.png",
+"Description":"Mangoes/kg",
+"price":160,
+"Category":"fruits"
+},
+{
+        
+    "_id":"item11",
+"title":"Cauliflower",
+"image":"/images/cauliflower.png",
+"Description":"Cauliflower",
+"price":40,
+"Category":"vegetables"
+},
+{
+        
+    "_id":"item12",
+"title":"Onion",
+"image":"/images/onion.png",
+"Description":"Onion/kg",
+"price":35,
+"Category":"vegetables"
+},
+{
+        
+    "_id":"item13",
+"title":"Potato",
+"image":"/images/potato.png",
+"Description":"Potatoes/kg",
+"price":25,
+"Category":"vegetables"
+},
+{
+        
+    "_id":"item14",
+"title":"spinach",
+"image":"/images/spinach.jpg",
+"Description":"Spinach",
+"price":15,
+"Category":"vegetables"
+},
+{
+        
+    "_id":"item15",
+"title":"Orange",
+"image":"/images/orange.png",
+"Description":"Orange/kg",
+"price":90,
+"Category":"fruits"
+},
+{
+        
+    "_id":"item16",
+"title":"Spinach",
+"image":"/images/spinach.png",
+"Description":"Spinach",
+"price":15,
+"Category":"vegetables"
+},
+{
+        
+    "_id":"item17",
+"title":"Maaza",
+"image":"/images/maaza.png",
+"Description":"Maaza/1-liter",
+"price":40,
+"Category":"Beverage"
+},
+{
+        
+    "_id":"item18",
+"title":"Sprite",
+"image":"/images/sprite.png",
+"Description":"Sprite/1-liter",
+"price":32,
+"Category":"Beverage"
+},
+{
+        
+    "_id":"item19",
+"title":"Dairymilk",
+"image":"/images/dairymilk.png",
+"Description":"Dairymilk",
+"price":20,
+"Category":"Chocolate"
+},
+{
+        
+    "_id":"item20",
+"title":"Ferrero Rocher",
+"image":"/images/ferrero.png",
+"Description":"Ferrero Rocher",
+"price":500,
+"Category":"Chocolate"
+},
+{
+        
+    "_id":"item21",
+"title":"Tropicana",
+"image":"/images/tropicana.png",
+"Description":"Tropicana/1-liter",
+"price":60,
+"Category":"Beverage"
+}
+
+
+
+
+
+]
+
+}
